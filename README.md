@@ -25,4 +25,5 @@ https://jsonplaceholder.typicode.com/users
 - JavaScript (ES6+)
 - Axios
 - REST API
+<img width="1390" height="574" alt="Screenshot 2026-05-21 at 22 07 10" src="https://github.com/user-attachments/assets/14f5e034-4ac2-489b-9b45-8c532a906e42" />
 
